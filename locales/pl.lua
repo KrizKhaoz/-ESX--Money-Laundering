@@ -1,4 +1,4 @@
-Locales['en'] = {
+Locales['pl'] = {
 	['cloakroom']				= 'szatnia',
 	['job_wear']				= 'Załaduj pojazd [max $5000 Brudnych Pieniędzy]',
 	['citizen_wear']			= 'ubrania cywilne',
@@ -28,7 +28,7 @@ Locales['en'] = {
 	['blip_depot']				= 'Poczta : magazyn',
 	['cancel_mission']			= 'Naciśnij ~INPUT_PICKUP~	aby ~r~zwrócić~w~ Ciężarówkę',
 	['not_delivery']			= '~r~Nie zrobiłeś żadnej dostawy!',
-	['Money_Laundering']		= Pranie Pieniędzy',
+	['Money_Laundering']		= 'Pranie Pieniędzy',
 	['return_finished']			= 'Naciśnij ~INPUT_PICKUP~ aby wylogować się i zgarnąć ~g~Czyste Pieniądze'
 }
 
